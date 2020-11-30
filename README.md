@@ -14,3 +14,6 @@ In local `sass-lint.yml`
 options:
   config-file: ./node_modules/@mediacurrent/sass-lint-config/.sass-lint.yml
 ```
+
+## Pre-commit hook
+For formatting using these rules to take place automatically on commit, follow the steps [outlined here](https://github.com/mediacurrent/prettier-config#pre-commit-hook) in Prettier setup.
