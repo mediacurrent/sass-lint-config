@@ -1,4 +1,4 @@
-# sass-lint-config
+# @mediacurrent/sass-lint-config
 
 Adds sass-lint configuration for consistent CSS rules.
 
