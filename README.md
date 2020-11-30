@@ -12,5 +12,5 @@ In local `sass-lint.yml`
 
 ```yaml
 options:
-  config-file: ./node_modules/@mediacurrent/.sass-lint.yml
+  config-file: ./node_modules/@mediacurrent/sass-lint-config/.sass-lint.yml
 ```
