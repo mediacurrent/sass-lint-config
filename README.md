@@ -1,10 +1,10 @@
-# @mediacurrent/sass-lint-config
+# @mediacurrent/stylelint-config
 
 Adds sass-lint configuration for consistent CSS rules.
 
 ## Install
 
-`npm install --save-dev @mediacurrent/sass-lint-config`
+`npm install --save-dev @mediacurrent/stylelint-config`
 
 ## Extend
 
