@@ -1,14 +1,13 @@
 {
-  "name": "@mediacurrent/sass-lint-config",
+  "name": "@mediacurrent/stylelint-config",
   "version": "0.0.1",
   "keywords": [
     "mediacurrent",
-    "sass-lint",
-    "sass-lint config"
+    "stylelint"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mediacurrent/sass-lint-config"
+    "url": "https://github.com/mediacurrent/stylelint-config"
   },
-  "homepage": "https://github.com/mediacurrent/sass-lint-config"
+  "homepage": "https://github.com/mediacurrent/stylelint-config"
 }

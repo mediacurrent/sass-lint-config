@@ -1,18 +1,22 @@
-# sass-lint-config
+# stylelint-config
 
-Adds sass-lint configuration for consistent CSS rules.
+Adds stylelint configuration for consistent CSS rules.
 
 ## Install
 
-`npm install --save-dev @mediacurrent/sass-lint-config`
+`npm install --save-dev @mediacurrent/stylelint-config`
 
 ## Extend
 
-In local `sass-lint.yml`
+In local `stylelintrc.yml`
 
 ```yaml
-options:
-  config-file: ./node_modules/@mediacurrent/sass-lint-config/.sass-lint.yml
+// Get base from node_modules.
+extends:
+  - "@mediacurrent/stylelint-config"
+// Overrides.
+rules: 
+  indentation: "tab"
 ```
 
 ## Pre-commit hook
