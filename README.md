@@ -1,4 +1,4 @@
-# stylelint-config
+# @mediacurrent/stylelint-config
 
 Adds stylelint configuration for consistent CSS rules.
 
