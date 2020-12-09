@@ -117,6 +117,8 @@ module.exports = {
            ]
         }
      ],
-     "no-missing-end-of-source-newline": true
+     "no-missing-end-of-source-newline": true,
+     "at-rule-no-unknown": null,
+     "scss/at-rule-no-unknown": true
   }
 }
